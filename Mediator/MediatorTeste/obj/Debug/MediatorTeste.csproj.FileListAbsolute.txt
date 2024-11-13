@@ -1,0 +1,7 @@
+C:\Users\Administrador\Documents\projects\desing-patternMediator\desing-patternMediator\Mediator\MediatorTeste\bin\Debug\MediatorTeste.exe.config
+C:\Users\Administrador\Documents\projects\desing-patternMediator\desing-patternMediator\Mediator\MediatorTeste\bin\Debug\MediatorTeste.exe
+C:\Users\Administrador\Documents\projects\desing-patternMediator\desing-patternMediator\Mediator\MediatorTeste\bin\Debug\MediatorTeste.pdb
+C:\Users\Administrador\Documents\projects\desing-patternMediator\desing-patternMediator\Mediator\MediatorTeste\obj\Debug\MediatorTeste.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\projects\desing-patternMediator\desing-patternMediator\Mediator\MediatorTeste\obj\Debug\MediatorTeste.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\projects\desing-patternMediator\desing-patternMediator\Mediator\MediatorTeste\obj\Debug\MediatorTeste.exe
+C:\Users\Administrador\Documents\projects\desing-patternMediator\desing-patternMediator\Mediator\MediatorTeste\obj\Debug\MediatorTeste.pdb
